@@ -1,0 +1,13 @@
+.admin-head{
+    display:inline-block;
+    top:0;
+    
+}
+.active-item{
+    display: none;
+}
+.xinchao{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(212, 172, 40)
+}
